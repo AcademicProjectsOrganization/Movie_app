@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ITI_Project_Java</string>
+    <string name="btn_label">اضغط</string>
+    <string name="password">كلمة السر</string>
+    <string name="user_name">اسم المستخدم</string>
+</resources>
